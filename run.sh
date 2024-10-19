@@ -1,0 +1,1 @@
+mvn -s /Users/anup.katre/LocalDisc/personal_settings.xml clean install
