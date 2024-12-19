@@ -17,6 +17,16 @@
 	<url/>
 	<modules>
 		<module>order_service</module>
+		<module>customer-management</module>
+		<module>kitchen-display-system</module>
+		<module>inventory_service</module>
+		<module>menu_service</module>
+		<module>notification-alert</module>
+		<module>payment_service</module>
+		<module>reporting-analytics</module>
+		<module>reservation-management</module>
+		<module>staff-management_service</module>
+		<module>sync_service</module>
 	</modules>
 	<licenses>
 		<license/>
@@ -34,10 +44,10 @@
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>org.springframework.boot</groupId>-->
+<!--			<artifactId>spring-boot-starter-data-jpa</artifactId>-->
+<!--		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
