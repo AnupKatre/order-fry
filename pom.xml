@@ -27,6 +27,7 @@
 		<module>reservation-management</module>
 		<module>staff-management_service</module>
 		<module>sync_service</module>
+		<module>user</module>
 	</modules>
 	<licenses>
 		<license/>
