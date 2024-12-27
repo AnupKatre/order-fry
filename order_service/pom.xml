@@ -10,6 +10,14 @@
 	<artifactId>order_service</artifactId>
 	<name>order_service</name>
 	<description>Demo project for Spring Boot</description>
+	<dependencies>
+		<dependency>
+			<groupId>com.of.rms</groupId>
+			<artifactId>common</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+			<scope>compile</scope>
+		</dependency>
+	</dependencies>
 	<build>
 		<plugins>
 			<plugin>

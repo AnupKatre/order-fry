@@ -1,5 +1,6 @@
 package com.of.rms.common.model;
 
+import com.of.rms.common.enums.UserRole;
 import lombok.*;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
